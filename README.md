@@ -7,6 +7,6 @@ Procure por `TODO:` e resolva os erros sequencialmente.
 - [X] Sintax
     - [X] Varargs
     - [X] Generics
-- [] Funcionalidades
-    - [] Reflection
-    - [] Dynamic Proxy
+- [ ] Funcionalidades
+    - [ ] Reflection
+    - [ ] Dynamic Proxy
